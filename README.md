@@ -10,7 +10,7 @@ Este repositorio contiene los archivos desarrollados para el laboratorio de alma
 - **`empleados.xml`**: documento XML generado a partir de la información de empleados y departamentos.
 - **`empleados.xsd`**: esquema que define la estructura y los elementos requeridos del documento XML.
 
-## 🛠️ Herramientas utilizadas
+## Herramientas utilizadas
 
 - Oracle Database 21c XE.
 - Oracle SQL Developer.
